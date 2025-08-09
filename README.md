@@ -17,7 +17,7 @@ Clone or download this repository and run with a local server of open index.html
 ## Demo
 [Preview Here](https://stately-basbousa-aec1a8.netlify.app/)
 
-![screenshot](./img/screenshot.png)
+![screenshot](./img/Screenshot.png)
 ## Contact
 If you want to contact me you can reach me at
 -hawaadediran345@gmail.com
